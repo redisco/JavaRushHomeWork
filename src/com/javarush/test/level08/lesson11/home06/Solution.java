@@ -25,7 +25,7 @@ public class Solution
         boolean sex;
         int age;
         ArrayList<Human> children = new ArrayList<Human>();
-        
+
 
         public String toString()
         {
